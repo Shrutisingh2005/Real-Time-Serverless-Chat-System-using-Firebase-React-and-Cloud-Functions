@@ -1,16 +1,36 @@
-# React + Vite
+# 💬 Real-Time Serverless Chat System using Firebase, React & Cloud Functions
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 🚀 Overview
+This project focuses on designing and implementing a **Real-Time Chat Application** powered by **Firebase services** for authentication and data storage. It integrates **AI-based offensive text detection** to ensure safe and responsible communication among users.
 
-Currently, two official plugins are available:
+The application offers instant messaging with real-time synchronization and secure login, built with a serverless architecture and deployed entirely on Firebase.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🔗 **Live Demo:** [https://realtime-chat-shruti.web.app/](https://realtime-chat-shruti.web.app/)
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🧠 Features
+- 🔥 Firebase Authentication (Google Sign-In)
+- 💬 Real-time chat using Firestore Database
+- 🤖 AI-powered offensive text detection
+- ⚙️ Firebase Cloud Functions for backend logic
+- 🧱 Serverless architecture (no manual backend setup)
+- 🚀 Deployed on Firebase Hosting
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Tech Stack
+- **Frontend:** React + Vite  
+- **Backend:** Firebase Cloud Functions  
+- **Database:** Firestore  
+- **Hosting & Auth:** Firebase  
+- **Linting:** ESLint  
+
+---
+
+## ⚙️ Getting Started
+
+### 1️⃣ Clone the Repository
+```bash
+git clone https://github.com/Shrutisingh2005/Real-Time-Serverless-Chat-System-using-Firebase-React-and-Cloud-Functions.git
+cd Real-Time-Serverless-Chat-System-using-Firebase-React-and-Cloud-Functions
